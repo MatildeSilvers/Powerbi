@@ -2,4 +2,4 @@ Los tumores cerebrales son neoplasias complejas y variadas que presentan desafí
 
 Este dashboard proporciona una herramienta interactiva y visualmente atractiva para explorar la compleja naturaleza de los tumores cerebrales, facilitando una mejor comprensión y apoyo en la toma de decisiones clínicas y de investigación. Gracias por su atención y espero que este dashboard sea una valiosa adición a sus recursos.
 
-!(Dashboard.png)
+![Descripción de la imagen](Dashboard.png)
